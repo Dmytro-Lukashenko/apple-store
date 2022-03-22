@@ -57,12 +57,8 @@
         this.$store.commit('ADD_PRODUCT_TO_THE_CART', product)
         } else {
         result.amount ++ 
-        } 
-        
-      }       
-      
-    
-                 
+        }         
+      }          
     },
     computed: {        
         products () {

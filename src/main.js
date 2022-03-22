@@ -3,9 +3,6 @@ import App from "./App.vue";
 import router from "./router";
 import store from "./store";
 import vuetify from "./plugins/vuetify";
-import BuyDialogComponent from "./components/Dialogs/BuyDialog/BuyDialog";
-
-Vue.component("app-buy-dialog", BuyDialogComponent);
 
 Vue.config.productionTip = false;
 

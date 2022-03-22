@@ -1,0 +1,10 @@
+.pointer{
+    margin-left: 40px;
+    cursor:pointer;
+}
+@media screen and (max-width: 620px) {
+    .pointer{
+        margin-left: 5px;
+    }
+    
+    }

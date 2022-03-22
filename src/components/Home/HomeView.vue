@@ -74,5 +74,5 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import 'HomeView..scss';
+@import 'HomeView.scss';
 </style>

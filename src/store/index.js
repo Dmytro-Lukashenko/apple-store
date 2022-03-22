@@ -18,7 +18,7 @@ export default new Vuex.Store({
         color: "Black",
         memory: "64GB",
         price: 700,
-        url: "https://fs39.fex.net/preview/3956405179/0x0",
+        url: "https://jabko.ua/image/catalog/products/2020/10/140937/8.jpg",
       },
       {
         id: "2",
@@ -26,7 +26,7 @@ export default new Vuex.Store({
         color: "Silver",
         memory: "128GB",
         price: 1200,
-        url: "https://fs39.fex.net/preview/3956405187/0x0",
+        url: "https://jabko.ua/image/catalog/products/2020/10/141033/16%20(4).jpg",
       },
       {
         id: "3",
@@ -34,7 +34,7 @@ export default new Vuex.Store({
         color: "Red",
         memory: "128GB",
         price: 900,
-        url: "https://fs41.fex.net/preview/3956405205/0x0",
+        url: "https://jabko.ua/image/catalog/products/2021/09/142205/2021-09-14%2021.47.44%20(1).jpg",
       },
       {
         id: "4",
@@ -42,7 +42,7 @@ export default new Vuex.Store({
         color: "Midnight",
         memory: "128GB",
         price: 1000,
-        url: "https://fs41.fex.net/preview/3956405198/0x0",
+        url: "https://jabko.ua/image/catalog/products/2021/09/142254/2021-09-14%2021.47.41.jpg",
       },
       {
         id: "5",
@@ -50,7 +50,7 @@ export default new Vuex.Store({
         color: "Blue",
         memory: "256GB",
         price: 1500,
-        url: "https://fs39.fex.net/preview/3956405192/0x0",
+        url: "https://jabko.ua/image/catalog/products/2021/09/142316/2021-09-14%2021.47.39.jpg",
       },
       {
         id: "6",
@@ -58,7 +58,7 @@ export default new Vuex.Store({
         color: "Graphite",
         memory: "1TB",
         price: 2000,
-        url: "https://fs41.fex.net/preview/3956405212/0x0",
+        url: "https://jabko.ua/image/catalog/products/2021/09/150015/2021-09-15%2000.07.26.jpg",
       },
     ],
     cart: [],
